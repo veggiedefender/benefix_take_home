@@ -1,0 +1,12 @@
+{
+  "name": "benefix_take_home",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/veggiedefender/benefix_take_home",
+  "author": "Jesse Li",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "aetna_parser": "../aetna_parser"
+  }
+}
