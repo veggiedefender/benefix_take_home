@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const parseFiles = require('aetna_parser');
+const { parseFiles } = require('aetna_parser');
 
 async function main() {
   const pdfDir = path.join(__dirname, 'pdf');
