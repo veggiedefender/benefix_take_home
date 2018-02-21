@@ -7,6 +7,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "aetna_parser": "../aetna_parser"
+    "aetna_parser": "../aetna_parser",
+    "exceljs": "^0.8.3"
   }
 }
