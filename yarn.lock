@@ -4,7 +4,7 @@
 
 "aetna_parser@github:veggiedefender/aetna_parser":
   version "1.0.0"
-  resolved "https://codeload.github.com/veggiedefender/aetna_parser/tar.gz/74c8b2345f4ae6a9ee2413ebf8193adab74454df"
+  resolved "https://codeload.github.com/veggiedefender/aetna_parser/tar.gz/b658112eaa7814c326ac5eee81d180e8a7f2c70d"
   dependencies:
     bluebird "^3.5.1"
     mocha "^5.0.1"
